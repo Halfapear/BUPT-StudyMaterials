@@ -3,9 +3,9 @@
 
 [网站戳这儿](http://81.70.198.30:8080)
 
-本仓库所有的资料都来自网络的收集和同学的分享，仅供学习和研究使用，版权归原作者所有，在此不以盈利为目的，如有侵权请联系 [zzzhhh@bupt.edu.cn](zzzhhh@bupt.edu.cn) 删除。
+本仓库所有的资料都来自网络的收集和同学的分享，仅供学习和研究使用，版权归原作者所有，在此不以盈利为目的，如有侵权请联系 [已过期](zzzhhh@bupt.edu.cn) [1783148122@bupt.edu.cn](1783148122@bupt.edu.cn)删除
 
-如果你有想要分享的学习资料，可以**提出pr或者发邮件给我**~
+如果你有想要分享的学习资料，可以**提出pr或者发邮件等任意方式联系我**~
 
 如果发现有一些资料已经过时，希望你能在[issue](https://github.com/BUPT-study-materials/BUPTStudyMaterials/issues)里提出来，方便我们及时的将它扔进垃圾堆~
 
@@ -20,7 +20,8 @@
 - [信息与通信工程](https://github.com/BUPT-study-materials/Information-and-Communication-Engineering)
 - [软件工程](https://github.com/BUPT-study-materials/Software-Engeering)
 - [自动化](https://github.com/BUPT-study-materials/Automation)
-- [国际学院](https://github.com/BUPT-study-materials/International-School)
+- [国际学院]([BUPT-International-School](https://github.com/Halfapear/BUPT-International-School))
+- ps ：除果园外还未开新库，如有需要可联系我开
 
 ### [公选课仓库](https://github.com/BUPT-study-materials/PublicElectives)
 
@@ -32,10 +33,8 @@
 
 - [知乎](www.zhihu.com)：紧跟时事热点
 - [Bilibili](www.bilibili.com)：众多学习视频供你选择
-
 - [LeetCode](https://leetcode-cn.com/)：算法题库
-
-- **[学校资源网站](https://idp.bupt.edu.cn)：北邮的电子资源网站**（随时都在变，爷佛了......）
+- **[学校资源网站](https://idp.bupt.edu.cn)：北邮的电子资源网站**
 
 - [MDN](https://developer.mozilla.org/zh-CN/)：学习 Web 开发的网站
 
