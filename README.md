@@ -18,7 +18,7 @@
 - [信息与通信工程](https://github.com/BUPT-study-materials/Information-and-Communication-Engineering)
 - [软件工程](https://github.com/BUPT-study-materials/Software-Engeering)
 - [自动化](https://github.com/BUPT-study-materials/Automation)
-- [国际学院]([BUPT-International-School](https://github.com/Halfapear/BUPT-International-School))
+- [国际学院](https://github.com/Halfapear/BuptInternationalSchool)
 - ps ：除果园外还未开新库，如有需要可联系我开organization添加新的库
 
 ## 推荐链接
