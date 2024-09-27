@@ -5,7 +5,7 @@
 
 原作者已长时间停止更新并且 目前无法联系上，希望完善北邮资料的同学们可以pr或者发邮件等方式联系我~
 
-如果发现有一些资料已经过时，希望你能在[issue](https://github.com/BUPT-study-materials/BUPTStudyMaterials/issues)里提出来，方便我们及时的将它扔进垃圾堆~
+如果发现有一些资料已经过时，希望你能在[issue](https://github.com/Halfapear/BUPTStudyMaterials/issues)里提出来，方便我们及时的将它扔进垃圾堆~
 
 如果你不怕麻烦，可以发邮件给我加入我们的团队，一起来维护这个仓库~
 
@@ -25,10 +25,9 @@
 
 ### 学习网站
 
-- [知乎](www.zhihu.com)：紧跟时事热点
-- [Bilibili](www.bilibili.com)：众多学习视频供你选择
+
 - [LeetCode](https://leetcode-cn.com/)：算法题库
-- **[学校资源网站](https://idp.bupt.edu.cn)：北邮的电子资源网站**
+- [学校资源网站](https://idp.bupt.edu.cn)：北邮的电子资源网站
 
 - [MDN](https://developer.mozilla.org/zh-CN/)：学习 Web 开发的网站
 
