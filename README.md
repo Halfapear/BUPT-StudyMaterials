@@ -28,8 +28,16 @@
 
 - [LeetCode](https://leetcode-cn.com/)：算法题库
 - [学校资源网站](https://idp.bupt.edu.cn)：北邮的电子资源网站
+- [北京邮电大学WebVPN系统]([https://webvpn.bupt.edu.cn/login](https://webvpn.bupt.edu.cn/)) ：从这里进信息门户、教务等
+- [BYRIO](https://byrio.org/)：北邮互联网开源社区
+- [北邮win](https://win.bupt.edu.cn/)
+- [北邮校园网指南](https://wiki.buptnet.icu/)
+- [北邮人论坛](https://bbs.byr.cn/index)
+- []()
+  更新时间：2024/9/27
 
-- [MDN](https://developer.mozilla.org/zh-CN/)：学习 Web 开发的网站
+
+
 
 ### 社区
 
@@ -70,7 +78,10 @@
 
 ## contributors
 
-[![](https://avatars2.githubusercontent.com/u/48408863?s=40&u=4ee8494eda8b95d0528c6a66e4565c9ee057c68b&v=4)](https://github.com/ppdog0) [![](https://avatars1.githubusercontent.com/u/44118896?s=40&u=75b00cedea3d20ec709d3d2af601a870fdd7fb17&v=4)](https://github.com/Luyitas) [![](https://avatars0.githubusercontent.com/u/55040189?s=40&u=67f7d215758feb52dd1402afe44272e649e6b7da&v=4)](https://github.com/Flown-UI) [<img src="https://avatars0.githubusercontent.com/u/17513853?s=40&v=4" style="zoom:9.5%;" />](https://github.com/zwt-ss) [![](https://avatars3.githubusercontent.com/u/70639586?s=40&u=aed2ee5ea48afbc8dc53c9041e98704f708e3286&v=4)](https://github.com/zh-hang) [<img src="https://avatars.githubusercontent.com/u/57791704?s=40&v=4" style="zoom:9.5%;" />](https://github.com/FireBEAR12138)
+[![](https://avatars2.githubusercontent.com/u/48408863?s=40&u=4ee8494eda8b95d0528c6a66e4565c9ee057c68b&v=4)](https://github.com/ppdog0) 
+[![](https://avatars1.githubusercontent.com/u/44118896?s=40&u=75b00cedea3d20ec709d3d2af601a870fdd7fb17&v=4)](https://github.com/Luyitas) 
+[![](https://avatars0.githubusercontent.com/u/55040189?s=40&u=67f7d215758feb52dd1402afe44272e649e6b7da&v=4)](https://github.com/Flown-UI) [<img src="https://avatars0.githubusercontent.com/u/17513853?s=40&v=4" style="zoom:9.5%;" />](https://github.com/zwt-ss) 
+[![](https://avatars3.githubusercontent.com/u/70639586?s=40&u=aed2ee5ea48afbc8dc53c9041e98704f708e3286&v=4)](https://github.com/zh-hang) [<img src="https://avatars.githubusercontent.com/u/57791704?s=40&v=4" style="zoom:9.5%;" />](https://github.com/FireBEAR12138)
 
 **感谢你们的帮助！**
 测试
