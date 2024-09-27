@@ -28,7 +28,7 @@
 
 - [LeetCode](https://leetcode-cn.com/)：算法题库
 - [学校资源网站](https://idp.bupt.edu.cn)：北邮的电子资源网站
-- [北京邮电大学WebVPN系统]([https://webvpn.bupt.edu.cn/login](https://webvpn.bupt.edu.cn/)) ：从这里进信息门户、教务等
+- [北京邮电大学WebVPN系统](https://webvpn.bupt.edu.cn/) ：从这里进信息门户、教务等
 - [BYRIO](https://byrio.org/)：北邮互联网开源社区
 - [北邮win](https://win.bupt.edu.cn/)
 - [北邮校园网指南](https://wiki.buptnet.icu/)
